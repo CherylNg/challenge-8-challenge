@@ -1,5 +1,6 @@
 {
     "name": "Challenge 8 Challenge",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
